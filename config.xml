@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Atlanta Golf</name>
+    <name>We Tech Mobile</name>
     <description>
-        Golf Atlanta App
+        App of We Tech Mobile apps
     </description>
     <author email="info@wetechmobile.com" href="http://www.wetechmobile.com">
         PhoneGap Team
