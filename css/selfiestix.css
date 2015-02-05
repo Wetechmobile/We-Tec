@@ -1,0 +1,279 @@
+.version.selfiestix /* version checker */
+{
+	color: #000018;
+	background-color: #4AB652;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#page_position_content
+{
+	margin-top: -41px;
+	padding-bottom: 7px;
+}
+
+#u366
+{
+	z-index: 2;
+	width: 132px;
+	background-color: transparent;
+	margin-left: 124px;
+	position: relative;
+}
+
+#u366_img
+{
+	padding-right: 1px;
+}
+
+#u412-5
+{
+	z-index: 19;
+	display: block;
+	vertical-align: top;
+	margin-left: 29px;
+	position: relative;
+}
+
+#u385
+{
+	z-index: 5;
+	width: 211px;
+	background-color: transparent;
+	margin-left: 84px;
+	margin-top: 36px;
+	position: relative;
+}
+
+#u368
+{
+	z-index: 4;
+	width: 398px;
+	height: 8px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	top: -365px;
+	margin-bottom: -10px;
+	position: relative;
+	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u415
+{
+	z-index: 24;
+	width: 398px;
+	height: 8px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-top: 50px;
+	position: relative;
+	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#ppbuttonu408
+{
+	width: 0.01px;
+	margin-left: 2px;
+	margin-top: 15px;
+}
+
+#pbuttonu408
+{
+	width: 0.01px;
+	margin: -2px -10000px -2px -2px;
+}
+
+#buttonu408
+{
+	z-index: 8;
+	width: 187px;
+	height: 48px;
+	border-color: #787878;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	margin-left: 2px;
+	background: #CACACA url("../images/images.jpg") no-repeat right bottom;
+}
+
+#pbuttonu408:hover #buttonu408
+{
+	width: 183px;
+	height: 44px;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #1248FF;
+	-pie-background: none;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+	background: #545454 url("../images/images.jpg") no-repeat right bottom;
+	background-color: rgba(84, 84, 84, 1);
+	background-size: auto;
+}
+
+#u409
+{
+	z-index: 10;
+	height: 23px;
+	width: 119px;
+	vertical-align: top;
+	background: url("../images/u409.png") no-repeat 0px 0px;
+}
+
+#pbuttonu408:hover #u409
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 32px;
+	background: url("../images/u409-r.png") no-repeat 0px 0px;
+}
+
+#pbuttonu408 #u409
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 34px;
+}
+
+#pbuttonu410
+{
+	width: 0.01px;
+	margin: -2px -10000px -2px 208px;
+}
+
+#buttonu410
+{
+	z-index: 14;
+	width: 187px;
+	height: 49px;
+	border-color: #787878;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	margin-left: 2px;
+	background: #CACACA url("../images/images.jpg") no-repeat right bottom;
+}
+
+#pbuttonu410:hover #buttonu410
+{
+	width: 183px;
+	height: 45px;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #1248FF;
+	-pie-background: none;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+	background: #545454 url("../images/images.jpg") no-repeat right bottom;
+	background-color: rgba(84, 84, 84, 1);
+	background-size: auto;
+}
+
+#u411
+{
+	z-index: 16;
+	height: 23px;
+	width: 119px;
+	vertical-align: top;
+	background: url("../images/u411.png") no-repeat 0px 0px;
+}
+
+#pbuttonu410:hover #u411
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 28px;
+	background: url("../images/u411-r.png") no-repeat 0px 0px;
+}
+
+#pbuttonu410 #u411
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 30px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

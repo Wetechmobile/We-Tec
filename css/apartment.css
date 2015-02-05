@@ -1,0 +1,287 @@
+.version.apartment /* version checker */
+{
+	color: #000014;
+	background-color: #55663F;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#page_position_content
+{
+	margin-top: -41px;
+	padding-bottom: 7px;
+}
+
+#u298
+{
+	z-index: 9;
+	width: 132px;
+	background-color: transparent;
+	margin-left: 124px;
+	position: relative;
+}
+
+#u298_img
+{
+	padding-right: 1px;
+}
+
+#u296-5
+{
+	z-index: 4;
+	display: block;
+	vertical-align: top;
+	margin-left: 46px;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u293
+{
+	z-index: 2;
+	width: 252px;
+	background-color: transparent;
+	margin-left: 64px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u293_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#u309
+{
+	z-index: 23;
+	width: 398px;
+	height: 8px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	top: -416px;
+	margin-bottom: -10px;
+	position: relative;
+	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u428
+{
+	z-index: 24;
+	width: 398px;
+	height: 8px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#ppbuttonu304
+{
+	width: 0.01px;
+	margin-left: 2px;
+	margin-top: 15px;
+}
+
+#pbuttonu304
+{
+	width: 0.01px;
+	margin: -2px -10000px -2px -2px;
+}
+
+#buttonu304
+{
+	z-index: 12;
+	width: 187px;
+	height: 48px;
+	border-color: #787878;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	margin-left: 2px;
+	background: #CACACA url("../images/images.jpg") no-repeat right bottom;
+}
+
+#pbuttonu304:hover #buttonu304
+{
+	width: 183px;
+	height: 44px;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #1248FF;
+	-pie-background: none;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+	background: #545454 url("../images/images.jpg") no-repeat right bottom;
+	background-color: rgba(84, 84, 84, 1);
+	background-size: auto;
+}
+
+#u305
+{
+	z-index: 14;
+	height: 23px;
+	width: 119px;
+	vertical-align: top;
+	background: url("../images/u305.png") no-repeat 0px 0px;
+}
+
+#pbuttonu304:hover #u305
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 32px;
+	background: url("../images/u305-r.png") no-repeat 0px 0px;
+}
+
+#pbuttonu304 #u305
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 34px;
+}
+
+#pbuttonu306
+{
+	width: 0.01px;
+	margin: -2px -10000px -2px 208px;
+}
+
+#buttonu306
+{
+	z-index: 18;
+	width: 187px;
+	height: 49px;
+	border-color: #787878;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	margin-left: 2px;
+	background: #CACACA url("../images/images.jpg") no-repeat right bottom;
+}
+
+#pbuttonu306:hover #buttonu306
+{
+	width: 183px;
+	height: 45px;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #1248FF;
+	-pie-background: none;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+	background: #545454 url("../images/images.jpg") no-repeat right bottom;
+	background-color: rgba(84, 84, 84, 1);
+	background-size: auto;
+}
+
+#u307
+{
+	z-index: 20;
+	height: 23px;
+	width: 119px;
+	vertical-align: top;
+	background: url("../images/u307.png") no-repeat 0px 0px;
+}
+
+#pbuttonu306:hover #u307
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 28px;
+	background: url("../images/u307-r.png") no-repeat 0px 0px;
+}
+
+#pbuttonu306 #u307
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 30px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,286 @@
+.version.streetcar /* version checker */
+{
+	color: #0000EF;
+	background-color: #0A29F8;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#page_position_content
+{
+	margin-top: -41px;
+	padding-bottom: 7px;
+}
+
+#u350
+{
+	z-index: 2;
+	width: 132px;
+	background-color: transparent;
+	margin-left: 124px;
+	position: relative;
+}
+
+#u350_img
+{
+	padding-right: 1px;
+}
+
+#u429-5
+{
+	z-index: 20;
+	display: block;
+	vertical-align: top;
+	margin-left: 44px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u373
+{
+	z-index: 5;
+	width: 205px;
+	background-color: transparent;
+	margin-left: 97px;
+	margin-top: 19px;
+	position: relative;
+}
+
+#u373_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#u352
+{
+	z-index: 4;
+	width: 398px;
+	height: 8px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	top: -363px;
+	margin-bottom: -10px;
+	position: relative;
+	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u426
+{
+	z-index: 19;
+	width: 398px;
+	height: 8px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-top: 52px;
+	position: relative;
+	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#ppbuttonu392
+{
+	width: 0.01px;
+	margin-left: 2px;
+	margin-top: 15px;
+}
+
+#pbuttonu392
+{
+	width: 0.01px;
+	margin: -2px -10000px -2px -2px;
+}
+
+#buttonu392
+{
+	z-index: 8;
+	width: 187px;
+	height: 48px;
+	border-color: #787878;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	margin-left: 2px;
+	background: #CACACA url("../images/images.jpg") no-repeat right bottom;
+}
+
+#pbuttonu392:hover #buttonu392
+{
+	width: 183px;
+	height: 44px;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #1248FF;
+	-pie-background: none;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+	background: #545454 url("../images/images.jpg") no-repeat right bottom;
+	background-color: rgba(84, 84, 84, 1);
+	background-size: auto;
+}
+
+#u393
+{
+	z-index: 10;
+	height: 23px;
+	width: 119px;
+	vertical-align: top;
+	background: url("../images/u393.png") no-repeat 0px 0px;
+}
+
+#pbuttonu392:hover #u393
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 32px;
+	background: url("../images/u393-r.png") no-repeat 0px 0px;
+}
+
+#pbuttonu392 #u393
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 34px;
+}
+
+#pbuttonu394
+{
+	width: 0.01px;
+	margin: -2px -10000px -2px 208px;
+}
+
+#buttonu394
+{
+	z-index: 14;
+	width: 187px;
+	height: 49px;
+	border-color: #787878;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	margin-left: 2px;
+	background: #CACACA url("../images/images.jpg") no-repeat right bottom;
+}
+
+#pbuttonu394:hover #buttonu394
+{
+	width: 183px;
+	height: 45px;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #1248FF;
+	-pie-background: none;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+	background: #545454 url("../images/images.jpg") no-repeat right bottom;
+	background-color: rgba(84, 84, 84, 1);
+	background-size: auto;
+}
+
+#u395
+{
+	z-index: 16;
+	height: 23px;
+	width: 119px;
+	vertical-align: top;
+	background: url("../images/u395.png") no-repeat 0px 0px;
+}
+
+#pbuttonu394:hover #u395
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 28px;
+	background: url("../images/u395-r.png") no-repeat 0px 0px;
+}
+
+#pbuttonu394 #u395
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 30px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
