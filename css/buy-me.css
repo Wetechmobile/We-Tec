@@ -1,7 +1,7 @@
 .version.buy_me /* version checker */
 {
-	color: #0000FD;
-	background-color: #566F92;
+	color: #000010;
+	background-color: #2FE65C;
 }
 
 @-ms-viewport
@@ -88,28 +88,36 @@
 #u360
 {
 	z-index: 4;
-	width: 398px;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	top: -397px;
-	margin-bottom: -10px;
-	position: relative;
 	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u360-bw
+{
+	z-index: 4;
+	margin-top: -397px;
+	margin-bottom: -10px;
+	height: 10px;
 }
 
 #u417
 {
 	z-index: 19;
-	width: 398px;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	margin-top: 18px;
-	position: relative;
 	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u417-bw
+{
+	z-index: 19;
+	margin-top: 18px;
+	height: 10px;
 }
 
 #ppbuttonu400
@@ -128,7 +136,7 @@
 #buttonu400
 {
 	z-index: 8;
-	width: 187px;
+	width: 170px;
 	height: 48px;
 	border-color: #787878;
 	-moz-border-radius: 10px;
@@ -144,7 +152,7 @@
 
 #pbuttonu400:hover #buttonu400
 {
-	width: 183px;
+	width: 166px;
 	height: 44px;
 	border-width: 4px;
 	border-style: solid;
@@ -169,7 +177,7 @@
 {
 	z-index: 10;
 	height: 23px;
-	width: 119px;
+	width: 113px;
 	vertical-align: top;
 	background: url("../images/u401.png") no-repeat 0px 0px;
 }
@@ -177,20 +185,20 @@
 #pbuttonu400:hover #u401
 {
 	position: relative;
-	width: 119px;
+	width: 113px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 32px;
+	left: 30px;
 	background: url("../images/u401-r.png") no-repeat 0px 0px;
 }
 
 #pbuttonu400 #u401
 {
 	position: relative;
-	width: 119px;
+	width: 113px;
 	margin-right: -10000px;
 	margin-top: 12px;
-	left: 34px;
+	left: 32px;
 }
 
 #pbuttonu402
@@ -202,7 +210,7 @@
 #buttonu402
 {
 	z-index: 14;
-	width: 187px;
+	width: 168px;
 	height: 49px;
 	border-color: #787878;
 	-moz-border-radius: 10px;
@@ -218,7 +226,7 @@
 
 #pbuttonu402:hover #buttonu402
 {
-	width: 183px;
+	width: 164px;
 	height: 45px;
 	border-width: 4px;
 	border-style: solid;

@@ -1,7 +1,7 @@
 .version.streetcar /* version checker */
 {
-	color: #0000EF;
-	background-color: #0A29F8;
+	color: #0000F8;
+	background-color: #3267AA;
 }
 
 @-ms-viewport
@@ -94,28 +94,36 @@
 #u352
 {
 	z-index: 4;
-	width: 398px;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	top: -363px;
-	margin-bottom: -10px;
-	position: relative;
 	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u352-bw
+{
+	z-index: 4;
+	margin-top: -363px;
+	margin-bottom: -10px;
+	height: 10px;
 }
 
 #u426
 {
 	z-index: 19;
-	width: 398px;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	margin-top: 52px;
-	position: relative;
 	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u426-bw
+{
+	z-index: 19;
+	margin-top: 52px;
+	height: 10px;
 }
 
 #ppbuttonu392
@@ -134,7 +142,7 @@
 #buttonu392
 {
 	z-index: 8;
-	width: 187px;
+	width: 168px;
 	height: 48px;
 	border-color: #787878;
 	-moz-border-radius: 10px;
@@ -150,7 +158,7 @@
 
 #pbuttonu392:hover #buttonu392
 {
-	width: 183px;
+	width: 164px;
 	height: 44px;
 	border-width: 4px;
 	border-style: solid;
@@ -208,7 +216,7 @@
 #buttonu394
 {
 	z-index: 14;
-	width: 187px;
+	width: 168px;
 	height: 49px;
 	border-color: #787878;
 	-moz-border-radius: 10px;
@@ -224,7 +232,7 @@
 
 #pbuttonu394:hover #buttonu394
 {
-	width: 183px;
+	width: 164px;
 	height: 45px;
 	border-width: 4px;
 	border-style: solid;

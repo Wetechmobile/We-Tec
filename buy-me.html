@@ -12,7 +12,7 @@
   <meta name="viewport" content="width=380"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?365011649"/>
-  <link rel="stylesheet" type="text/css" href="css/buy-me.css?4250300306" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/buy-me.css?271574620" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -30,8 +30,12 @@
      <img class="block" id="u379_img" src="images/buy-me%20app%20logo.png" alt="" width="210" height="203"/>
     </div>
     <div class="verticalspacer"></div>
-    <div class="colelem" id="u360"><!-- simple frame --></div>
-    <div class="colelem" id="u417"><!-- simple frame --></div>
+    <div class="browser_width colelem" id="u360-bw">
+     <div id="u360"><!-- simple frame --></div>
+    </div>
+    <div class="browser_width colelem" id="u417-bw">
+     <div id="u417"><!-- simple frame --></div>
+    </div>
     <div class="clearfix colelem" id="ppbuttonu400"><!-- group -->
      <div class="sbg Button clearfix grpelem" id="pbuttonu400"><!-- group -->
       <a class="nonblock nontext rounded-corners clearfix grpelem rgba-background" id="buttonu400" href="apps.html"><!-- container box --><img class="grpelem" id="u401" alt="Back" src="images/blank.gif"/><!-- state-based BG images --></a>
@@ -64,6 +68,7 @@ for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.re
 typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight()/* resize height */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

@@ -1,25 +1,46 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1423100354346">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1423103981459">
   <folder name="css">
     <file name="site_global.css" crc="365011649"/>
-    <file name="golf.css" crc="166227886" ref="golf"/>
+    <file name="golf.css" crc="485682878" ref="golf"/>
     <file name="contact-us.css" crc="435926956" ref="contact-us"/>
-    <file name="apartment.css" crc="341141055" ref="apartment"/>
+    <file name="apartment.css" crc="237550835" ref="apartment"/>
     <file name="golf-pics.css" crc="4107295331" ref="golf-pics"/>
     <file name="streetcar-pic.css" crc="4107295331" ref="streetcar-pic"/>
-    <file name="fan.css" crc="466888153" ref="fan"/>
-    <file name="holiday.css" crc="3900886787" ref="holiday"/>
+    <file name="fan.css" crc="4177707918" ref="fan"/>
+    <file name="holiday.css" crc="3884782255" ref="holiday"/>
     <file name="apps.css" crc="3935410488" ref="apps"/>
     <file name="apt-pics.css" crc="4107295331" ref="apt-pics"/>
     <file name="fan-pics.css" crc="4107295331" ref="fan-pics"/>
-    <file name="streetcar.css" crc="4010420728" ref="streetcar"/>
+    <file name="streetcar.css" crc="4164052906" ref="streetcar"/>
     <file name="selfy-pics.css" crc="4107295331" ref="selfy-pics"/>
-    <file name="index.css" crc="442881751" ref="index"/>
+    <file name="index.css" crc="362331969" ref="index"/>
     <file name="buyme-picks.css" crc="4107295331" ref="buyme-picks"/>
-    <file name="buy-me.css" crc="4250300306" ref="buy-me"/>
-    <file name="selfiestix.css" crc="407549522" ref="selfiestix"/>
+    <file name="buy-me.css" crc="271574620" ref="buy-me"/>
+    <file name="selfiestix.css" crc="202262439" ref="selfiestix"/>
     <file name="holiday-pics.css" crc="4107295331" ref="holiday-pics"/>
   </folder>
   <folder name="assets">
+    <folder name="we-tech-app-ani2">
+      <folder name="edge_includes">
+        <file name="edge.4.0.0.min.js" crc="4277870922" mt="1423103437000"/>
+        <file name="jquery-2.0.3.min.js" crc="4065232848" mt="1423103437000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="253179703" mt="1423103437000"/>
+        <file name="LogoAni 1.png" crc="233883166" mt="1423103437000"/>
+        <file name="LogoAni 2.png" crc="3777621816" mt="1423103437000"/>
+        <file name="LogoAni 3.png" crc="3980701243" mt="1423103437000"/>
+        <file name="LogoAni 4.png" crc="94622884" mt="1423103437000"/>
+        <file name="LogoAni 5.png" crc="4244272253" mt="1423103437000"/>
+        <file name="LogoAni.png" crc="4273188676" mt="1423103437000"/>
+        <file name="Poster.png" crc="401622690" mt="1423103437000"/>
+        <file name="Poster2.png" crc="253179703" mt="1423103437000"/>
+      </folder>
+      <file name="We tech app ani_edge.js" crc="4103121370" mt="1423103437000"/>
+      <file name="We tech app ani_edgeActions.js" crc="503299080" mt="1423103437000"/>
+      <file name="We tech app ani_edgePreload.js" crc="411426026" mt="1423103437000"/>
+      <file name="We tech app ani.html" crc="3898710940" mt="1423103437000"/>
+    </folder>
     <folder name="we-tech-app-ani">
       <folder name="edge_includes">
         <file name="edge.4.0.0.min.js" crc="4277870922" mt="1422990722000"/>
@@ -36,9 +57,9 @@
         <file name="Poster.png" crc="401622690" mt="1422990722000"/>
         <file name="Poster2.png" crc="253179703" mt="1422990722000"/>
       </folder>
-      <file name="We tech app ani_edge.js" crc="405320097" mt="1422990722000"/>
+      <file name="We tech app ani_edge.js" crc="4103121370" mt="1422990722000"/>
       <file name="We tech app ani_edgeActions.js" crc="503299080" mt="1422990722000"/>
-      <file name="We tech app ani_edgePreload.js" crc="419730145" mt="1422990722000"/>
+      <file name="We tech app ani_edgePreload.js" crc="411426026" mt="1422990722000"/>
       <file name="We tech app ani.html" crc="3898710940" mt="1422990722000"/>
     </folder>
   </folder>
@@ -88,8 +109,8 @@
     <file name="u307.png" crc="3980347646" ref="apartment"/>
     <file name="u307-r.png" crc="3980347646" ref="apartment"/>
     <file name="u430-5.png" crc="461475009" ref="golf"/>
-    <file name="u389.png" crc="347511126" ref="golf"/>
-    <file name="u389-r.png" crc="347511126" ref="golf"/>
+    <file name="u389.png" crc="55703909" ref="golf"/>
+    <file name="u389-r.png" crc="55703909" ref="golf"/>
     <file name="u391.png" crc="4114930815" ref="golf"/>
     <file name="u391-r.png" crc="4114930815" ref="golf"/>
     <file name="u429-5.png" crc="4154361568" ref="streetcar"/>
@@ -98,13 +119,13 @@
     <file name="u395.png" crc="4114930815" ref="streetcar"/>
     <file name="u395-r.png" crc="4114930815" ref="streetcar"/>
     <file name="u423-5.png" crc="372546283" ref="fan"/>
-    <file name="u397.png" crc="347511126" ref="fan"/>
-    <file name="u397-r.png" crc="347511126" ref="fan"/>
+    <file name="u397.png" crc="4020631160" ref="fan"/>
+    <file name="u397-r.png" crc="4020631160" ref="fan"/>
     <file name="u399.png" crc="4114930815" ref="fan"/>
     <file name="u399-r.png" crc="4114930815" ref="fan"/>
     <file name="u418-5.png" crc="4246445690" ref="buy-me"/>
-    <file name="u401.png" crc="347511126" ref="buy-me"/>
-    <file name="u401-r.png" crc="347511126" ref="buy-me"/>
+    <file name="u401.png" crc="55703909" ref="buy-me"/>
+    <file name="u401-r.png" crc="55703909" ref="buy-me"/>
     <file name="u403.png" crc="3980347646" ref="buy-me"/>
     <file name="u403-r.png" crc="3980347646" ref="buy-me"/>
     <file name="u413-5.png" crc="3899463764" ref="holiday"/>
@@ -114,21 +135,21 @@
     <file name="u407.png" crc="4209163833" ref="holiday"/>
     <file name="u407-r.png" crc="4209163833" ref="holiday"/>
     <file name="u412-5.png" crc="149136761" ref="selfiestix"/>
-    <file name="u409.png" crc="347511126" ref="selfiestix"/>
-    <file name="u409-r.png" crc="347511126" ref="selfiestix"/>
+    <file name="u409.png" crc="55703909" ref="selfiestix"/>
+    <file name="u409-r.png" crc="55703909" ref="selfiestix"/>
     <file name="u411.png" crc="4114930815" ref="selfiestix"/>
     <file name="u411-r.png" crc="4114930815" ref="selfiestix"/>
   </folder>
-  <file name="index.html" crc="3813926499" mt="1423007344715" redirect="true"/>
+  <file name="index.html" crc="74007701" mt="1423103564123" redirect="true"/>
   <file name="apps.html" crc="4291134123" mt="1423100347422" redirect="true"/>
   <file name="contact-us.html" crc="405342483" mt="1423002705938" redirect="true"/>
-  <file name="apartment.html" crc="346448985" mt="1423100347461" redirect="true"/>
-  <file name="golf.html" crc="289756922" mt="1423100347463" redirect="true"/>
-  <file name="streetcar.html" crc="339208098" mt="1423100347465" redirect="true"/>
-  <file name="fan.html" crc="370944635" mt="1423100347467" redirect="true"/>
-  <file name="buy-me.html" crc="3905892603" mt="1423100347469" redirect="true"/>
-  <file name="holiday.html" crc="254711166" mt="1423100347471" redirect="true"/>
-  <file name="selfiestix.html" crc="243178002" mt="1423100347473" redirect="true"/>
+  <file name="apartment.html" crc="223823287" mt="1423103610156" redirect="true"/>
+  <file name="golf.html" crc="3932693246" mt="1423103639161" redirect="true"/>
+  <file name="streetcar.html" crc="73150223" mt="1423103668292" redirect="true"/>
+  <file name="fan.html" crc="3999437281" mt="1423103714276" redirect="true"/>
+  <file name="buy-me.html" crc="518101734" mt="1423103732244" redirect="true"/>
+  <file name="holiday.html" crc="4244529381" mt="1423103765161" redirect="true"/>
+  <file name="selfiestix.html" crc="280187042" mt="1423103957874" redirect="true"/>
   <file name="apt-pics.html" crc="206512972" mt="1423099603968" redirect="false"/>
   <file name="golf-pics.html" crc="410419521" mt="1423099615386" redirect="false"/>
   <file name="streetcar-pic.html" crc="248916280" mt="1423099648079" redirect="false"/>

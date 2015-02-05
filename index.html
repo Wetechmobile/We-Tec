@@ -13,7 +13,7 @@
   <meta http-equiv="X-UA-Compatible" content="chrome=IE8"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?365011649"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?442881751" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?362331969" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -37,12 +37,16 @@
   
   <div class="clearfix" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
-    <div class="clearfix colelem" id="pu96"><!-- group -->
-     <div class="grpelem" id="u96"><!-- animation -->
-      <iframe id="U98_animation" src="assets/we-tech-app-ani/We%20tech%20app%20ani.html" scrolling="no" class="animationContainer an_invi"></iframe>
+    <div class="browser_width colelem" id="u263-bw">
+     <div id="u263"><!-- simple frame --></div>
+    </div>
+    <div class="clearfix colelem" id="pu473"><!-- group -->
+     <div class="grpelem" id="u473"><!-- animation -->
+      <iframe id="U475_animation" src="assets/we-tech-app-ani2/We%20tech%20app%20ani.html" scrolling="no" class="animationContainer an_invi"></iframe>
      </div>
-     <div class="grpelem" id="u262"><!-- simple frame --></div>
-     <div class="grpelem" id="u263"><!-- simple frame --></div>
+     <div class="browser_width grpelem" id="u262-bw">
+      <div id="u262"><!-- simple frame --></div>
+     </div>
     </div>
     <img class="colelem" id="u102-5" alt="Welcome to We Tech Mobile. We are in the process of developing various awesome apps that user will enjoy for a long time. We are developing a Atlanta Streetcar information app, Atlanta Golf app, Fan app,Holiday Gifting app, and various other things including games. So stay tuned!" width="373" height="149" src="images/u102-5.png"/><!-- rasterized frame -->
     <div class="colelem" id="u256"><!-- custom html -->
@@ -64,7 +68,9 @@
       <a class="nonblock nontext rounded-corners clearfix grpelem rgba-background" id="buttonu107" href="contact-us.html"><!-- container box --><img class="grpelem" id="u108" alt="Contact us" src="images/blank.gif"/><!-- state-based BG images --></a>
      </div>
     </div>
-    <div class="colelem" id="u269"><!-- simple frame --></div>
+    <div class="browser_width colelem" id="u269-bw">
+     <div id="u269"><!-- simple frame --></div>
+    </div>
    </div>
   </div>
   <div class="preload_images">
@@ -89,6 +95,7 @@ for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.re
 typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight()/* resize height */
 Muse.Utils.initializeAnimations();/* animations */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */

@@ -1,7 +1,7 @@
 .version.selfiestix /* version checker */
 {
-	color: #000018;
-	background-color: #4AB652;
+	color: #00000C;
+	background-color: #0E47A7;
 }
 
 @-ms-viewport
@@ -87,28 +87,36 @@
 #u368
 {
 	z-index: 4;
-	width: 398px;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	top: -365px;
-	margin-bottom: -10px;
-	position: relative;
 	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u368-bw
+{
+	z-index: 4;
+	margin-top: -365px;
+	margin-bottom: -10px;
+	height: 10px;
 }
 
 #u415
 {
 	z-index: 24;
-	width: 398px;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	margin-top: 50px;
-	position: relative;
 	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u415-bw
+{
+	z-index: 24;
+	margin-top: 50px;
+	height: 10px;
 }
 
 #ppbuttonu408
@@ -127,7 +135,7 @@
 #buttonu408
 {
 	z-index: 8;
-	width: 187px;
+	width: 166px;
 	height: 48px;
 	border-color: #787878;
 	-moz-border-radius: 10px;
@@ -143,7 +151,7 @@
 
 #pbuttonu408:hover #buttonu408
 {
-	width: 183px;
+	width: 162px;
 	height: 44px;
 	border-width: 4px;
 	border-style: solid;
@@ -168,7 +176,7 @@
 {
 	z-index: 10;
 	height: 23px;
-	width: 119px;
+	width: 113px;
 	vertical-align: top;
 	background: url("../images/u409.png") no-repeat 0px 0px;
 }
@@ -176,20 +184,20 @@
 #pbuttonu408:hover #u409
 {
 	position: relative;
-	width: 119px;
+	width: 113px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 32px;
+	left: 30px;
 	background: url("../images/u409-r.png") no-repeat 0px 0px;
 }
 
 #pbuttonu408 #u409
 {
 	position: relative;
-	width: 119px;
+	width: 113px;
 	margin-right: -10000px;
 	margin-top: 12px;
-	left: 34px;
+	left: 32px;
 }
 
 #pbuttonu410
@@ -201,7 +209,7 @@
 #buttonu410
 {
 	z-index: 14;
-	width: 187px;
+	width: 168px;
 	height: 49px;
 	border-color: #787878;
 	-moz-border-radius: 10px;
@@ -217,7 +225,7 @@
 
 #pbuttonu410:hover #buttonu410
 {
-	width: 183px;
+	width: 164px;
 	height: 45px;
 	border-width: 4px;
 	border-style: solid;

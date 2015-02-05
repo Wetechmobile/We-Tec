@@ -1,7 +1,7 @@
 .version.fan /* version checker */
 {
-	color: #00001B;
-	background-color: #D425D9;
+	color: #0000F9;
+	background-color: #02C38E;
 }
 
 @-ms-viewport
@@ -96,29 +96,37 @@
 #u356
 {
 	z-index: 4;
-	width: 398px;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	top: -417px;
-	margin-bottom: -10px;
-	position: relative;
 	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u356-bw
+{
+	z-index: 4;
+	margin-top: -417px;
+	margin-bottom: -10px;
+	height: 10px;
 }
 
 #u424
 {
 	z-index: 24;
-	width: 398px;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	top: -2px;
-	margin-bottom: -2px;
-	position: relative;
 	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u424-bw
+{
+	z-index: 24;
+	margin-top: -2px;
+	margin-bottom: -2px;
+	height: 10px;
 }
 
 #ppbuttonu396
@@ -137,7 +145,7 @@
 #buttonu396
 {
 	z-index: 8;
-	width: 187px;
+	width: 168px;
 	height: 48px;
 	border-color: #787878;
 	-moz-border-radius: 10px;
@@ -153,7 +161,7 @@
 
 #pbuttonu396:hover #buttonu396
 {
-	width: 183px;
+	width: 164px;
 	height: 44px;
 	border-width: 4px;
 	border-style: solid;
@@ -178,7 +186,7 @@
 {
 	z-index: 10;
 	height: 23px;
-	width: 119px;
+	width: 114px;
 	vertical-align: top;
 	background: url("../images/u397.png") no-repeat 0px 0px;
 }
@@ -186,20 +194,20 @@
 #pbuttonu396:hover #u397
 {
 	position: relative;
-	width: 119px;
+	width: 114px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 32px;
+	left: 30px;
 	background: url("../images/u397-r.png") no-repeat 0px 0px;
 }
 
 #pbuttonu396 #u397
 {
 	position: relative;
-	width: 119px;
+	width: 114px;
 	margin-right: -10000px;
 	margin-top: 12px;
-	left: 34px;
+	left: 32px;
 }
 
 #pbuttonu398
@@ -211,7 +219,7 @@
 #buttonu398
 {
 	z-index: 14;
-	width: 187px;
+	width: 168px;
 	height: 49px;
 	border-color: #787878;
 	-moz-border-radius: 10px;
@@ -227,7 +235,7 @@
 
 #pbuttonu398:hover #buttonu398
 {
-	width: 183px;
+	width: 164px;
 	height: 45px;
 	border-width: 4px;
 	border-style: solid;

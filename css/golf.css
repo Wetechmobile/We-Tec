@@ -1,7 +1,7 @@
 .version.golf /* version checker */
 {
-	color: #000009;
-	background-color: #E86FAE;
+	color: #00001C;
+	background-color: #F2EEBE;
 }
 
 @-ms-viewport
@@ -88,28 +88,36 @@
 #u348
 {
 	z-index: 4;
-	width: 398px;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	top: -390px;
-	margin-bottom: -10px;
-	position: relative;
 	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u348-bw
+{
+	z-index: 4;
+	margin-top: -390px;
+	margin-bottom: -10px;
+	height: 10px;
 }
 
 #u427
 {
 	z-index: 19;
-	width: 398px;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	margin-top: 25px;
-	position: relative;
 	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u427-bw
+{
+	z-index: 19;
+	margin-top: 25px;
+	height: 10px;
 }
 
 #ppbuttonu388
@@ -128,7 +136,7 @@
 #buttonu388
 {
 	z-index: 8;
-	width: 187px;
+	width: 166px;
 	height: 48px;
 	border-color: #787878;
 	-moz-border-radius: 10px;
@@ -144,7 +152,7 @@
 
 #pbuttonu388:hover #buttonu388
 {
-	width: 183px;
+	width: 162px;
 	height: 44px;
 	border-width: 4px;
 	border-style: solid;
@@ -169,7 +177,7 @@
 {
 	z-index: 10;
 	height: 23px;
-	width: 119px;
+	width: 113px;
 	vertical-align: top;
 	background: url("../images/u389.png") no-repeat 0px 0px;
 }
@@ -177,20 +185,20 @@
 #pbuttonu388:hover #u389
 {
 	position: relative;
-	width: 119px;
+	width: 113px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 32px;
+	left: 30px;
 	background: url("../images/u389-r.png") no-repeat 0px 0px;
 }
 
 #pbuttonu388 #u389
 {
 	position: relative;
-	width: 119px;
+	width: 113px;
 	margin-right: -10000px;
 	margin-top: 12px;
-	left: 34px;
+	left: 32px;
 }
 
 #pbuttonu390
@@ -202,7 +210,7 @@
 #buttonu390
 {
 	z-index: 14;
-	width: 187px;
+	width: 168px;
 	height: 49px;
 	border-color: #787878;
 	-moz-border-radius: 10px;
@@ -218,7 +226,7 @@
 
 #pbuttonu390:hover #buttonu390
 {
-	width: 183px;
+	width: 164px;
 	height: 45px;
 	border-width: 4px;
 	border-style: solid;

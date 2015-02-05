@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.wetechmobile.com/assets/we-tech-app-ani2/images/icon.png</loc>
+    <lastmod>2015-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.wetechmobile.com/assets/we-tech-app-ani2/images/LogoAni%201.png</loc>
+    <lastmod>2015-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.wetechmobile.com/assets/we-tech-app-ani2/images/LogoAni%202.png</loc>
+    <lastmod>2015-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.wetechmobile.com/assets/we-tech-app-ani2/images/LogoAni%203.png</loc>
+    <lastmod>2015-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.wetechmobile.com/assets/we-tech-app-ani2/images/LogoAni%204.png</loc>
+    <lastmod>2015-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.wetechmobile.com/assets/we-tech-app-ani2/images/LogoAni%205.png</loc>
+    <lastmod>2015-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.wetechmobile.com/assets/we-tech-app-ani2/images/LogoAni.png</loc>
+    <lastmod>2015-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.wetechmobile.com/assets/we-tech-app-ani2/images/Poster.png</loc>
+    <lastmod>2015-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.wetechmobile.com/assets/we-tech-app-ani2/images/Poster2.png</loc>
+    <lastmod>2015-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.wetechmobile.com/assets/we-tech-app-ani2/We%20tech%20app%20ani.html</loc>
+    <lastmod>2015-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.wetechmobile.com/assets/we-tech-app-ani/images/icon.png</loc>
     <lastmod>2015-02-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -446,7 +506,7 @@
   </url>
   <url>
     <loc>http://www.wetechmobile.com/index.html</loc>
-    <lastmod>2015-02-03</lastmod>
+    <lastmod>2015-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
