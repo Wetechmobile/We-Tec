@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.WTM"
+version = "1.0.0"
+versionCode = "10" >
+
+<!-- versionCode is optional and Android only -->
+
+<preference name="phonegap-version" value="3.5.0" />
+
+<name>We Tech Mobile</name>
+
+<description>
+Explains our apps and company
+</description>
+
+<author href="http://wetechmobile.com" email="info@wetechmobile.com">
+We Tech Mobile
+</author>
+
+</widget>
