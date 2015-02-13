@@ -1,32 +1,32 @@
 .version.selfiestix /* version checker */
 {
-	color: #00000C;
-	background-color: #0E47A7;
+	color: #00001E;
+	background-color: #55EC0F;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 .html
@@ -37,7 +37,7 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
+	width: 360px;
 	min-height: 570px;
 	background-image: none;
 	border-style: none;
@@ -49,6 +49,7 @@
 {
 	margin-top: -41px;
 	padding-bottom: 7px;
+	width: 0.01px;
 }
 
 #u366
@@ -138,9 +139,6 @@
 	width: 166px;
 	height: 48px;
 	border-color: #787878;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
@@ -156,11 +154,6 @@
 	border-width: 4px;
 	border-style: solid;
 	border-color: #1248FF;
-	-pie-background: none;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
-	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 0px;
@@ -168,23 +161,24 @@
 	margin-left: 0px;
 	min-height: 0px;
 	background: #545454 url("../images/images.jpg") no-repeat right bottom;
-	background-color: rgba(84, 84, 84, 1);
-	background-size: auto;
 }
 
 #u409
 {
 	z-index: 10;
+	min-height: 23px;
+	min-width: 113px;
+	vertical-align: top;
 	height: 23px;
 	width: 113px;
-	vertical-align: top;
 	background: url("../images/u409.png") no-repeat 0px 0px;
 }
 
 #pbuttonu408:hover #u409
 {
-	position: relative;
+	height: 23px;
 	width: 113px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 10px;
 	left: 30px;
@@ -193,8 +187,9 @@
 
 #pbuttonu408 #u409
 {
-	position: relative;
+	height: 23px;
 	width: 113px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
 	left: 32px;
@@ -212,9 +207,6 @@
 	width: 168px;
 	height: 49px;
 	border-color: #787878;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
@@ -230,11 +222,6 @@
 	border-width: 4px;
 	border-style: solid;
 	border-color: #1248FF;
-	-pie-background: none;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
-	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 0px;
@@ -242,23 +229,24 @@
 	margin-left: 0px;
 	min-height: 0px;
 	background: #545454 url("../images/images.jpg") no-repeat right bottom;
-	background-color: rgba(84, 84, 84, 1);
-	background-size: auto;
 }
 
 #u411
 {
 	z-index: 16;
+	min-height: 23px;
+	min-width: 119px;
+	vertical-align: top;
 	height: 23px;
 	width: 119px;
-	vertical-align: top;
 	background: url("../images/u411.png") no-repeat 0px 0px;
 }
 
 #pbuttonu410:hover #u411
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 10px;
 	left: 28px;
@@ -267,8 +255,9 @@
 
 #pbuttonu410 #u411
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
 	left: 30px;
@@ -277,7 +266,7 @@
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 360px;
 }
 
 #page .verticalspacer

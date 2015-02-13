@@ -1,32 +1,32 @@
 .version.apps /* version checker */
 {
-	color: #0000EA;
-	background-color: #919938;
+	color: #0000F7;
+	background-color: #8A2F4E;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 .html
@@ -37,68 +37,81 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
-	min-height: 569.5696950245466px;
+	width: 360px;
+	min-height: 570px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 }
 
 #page_position_content
 {
-	margin-bottom: -1px;
+	margin-top: -1px;
+	padding-bottom: 14px;
+	width: 0.01px;
 }
 
 #pu148
 {
 	width: 0.01px;
+	margin-left: -20px;
 }
 
 #u148
 {
 	z-index: 15;
-	width: 400px;
+	width: 380px;
 	height: 194px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#U149_animation
+#U528_animation
 {
-	width: 400px;
+	width: 380px;
 	height: 194px;
 	border: none;
 }
 
-#u252
+#u741
 {
-	z-index: 30;
-	width: 399px;
+	z-index: 31;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 185px;
 	background: #1B1464 url("../images/images.jpg") no-repeat right center;
 }
 
-#u264
+#u741-bw
 {
 	z-index: 31;
-	width: 399px;
+	height: 10px;
+}
+
+#u740
+{
+	z-index: 30;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	position: relative;
-	margin-right: -10000px;
 	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u740-bw
+{
+	z-index: 30;
+	height: 10px;
+}
+
+#ppu271
+{
+	width: 0.01px;
+	margin-left: 26px;
+	margin-top: 2px;
 }
 
 #pu271
@@ -106,14 +119,14 @@
 	z-index: 2;
 	width: 0.01px;
 	position: relative;
-	margin-left: 12px;
-	margin-top: 3px;
+	margin-bottom: -1px;
+	margin-right: -10000px;
 }
 
 #u271
 {
 	z-index: 0;
-	width: 376px;
+	width: 319px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -126,56 +139,20 @@
 	bottom: 0px;
 }
 
-#ppu210
+#ppu216
 {
 	width: 0.01px;
 	position: relative;
-	left: 10px;
+	left: 106px;
+	padding-top: 7px;
 	z-index: 2;
-	padding-bottom: 39px;
-}
-
-#pu210
-{
-	width: 0.01px;
-	margin-right: -10000px;
-}
-
-#u210
-{
-	z-index: 16;
-	width: 87px;
-	background-color: transparent;
-	position: relative;
-}
-
-#u240
-{
-	z-index: 26;
-	width: 83px;
-	background-color: transparent;
-	margin-left: 4px;
-	margin-top: 14px;
-	position: relative;
-}
-
-#u246
-{
-	z-index: 28;
-	width: 86px;
-	background-color: transparent;
-	margin-left: 1px;
-	margin-top: 15px;
-	position: relative;
+	padding-bottom: 13px;
 }
 
 #pu216
 {
 	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 11px;
-	margin-left: 131px;
+	margin-left: 1px;
 }
 
 #u216
@@ -184,25 +161,7 @@
 	width: 86px;
 	background-color: transparent;
 	position: relative;
-}
-
-#u228
-{
-	z-index: 22;
-	width: 87px;
-	background-color: transparent;
-	margin-left: 1px;
-	margin-top: 21px;
-	position: relative;
-}
-
-#pu222
-{
-	width: 0.01px;
-	padding-bottom: 0px;
 	margin-right: -10000px;
-	margin-top: 11px;
-	margin-left: 264px;
 }
 
 #u222
@@ -211,6 +170,23 @@
 	width: 88px;
 	background-color: transparent;
 	position: relative;
+	margin-right: -10000px;
+	left: 118px;
+}
+
+#pu228
+{
+	width: 0.01px;
+	margin-top: 6px;
+}
+
+#u228
+{
+	z-index: 22;
+	width: 87px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u234
@@ -218,18 +194,74 @@
 	z-index: 24;
 	width: 87px;
 	background-color: transparent;
-	-moz-border-radius: 19px;
-	-webkit-border-radius: 19px;
-	-khtml-border-radius: 19px;
 	border-radius: 19px;
-	margin-left: 1px;
-	margin-top: 16px;
 	position: relative;
+	margin-right: -10000px;
+	left: 119px;
 }
 
 #u234 .clip_frame
 {
 	-webkit-border-radius: 19px 19px 19px 19px;
+}
+
+#u246
+{
+	z-index: 28;
+	width: 86px;
+	background-color: transparent;
+	margin-left: 1px;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u210
+{
+	z-index: 16;
+	width: 87px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u240
+{
+	z-index: 26;
+	width: 83px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 100px;
+}
+
+#u742
+{
+	z-index: 32;
+	height: 8px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u741::before,#u740::before,#u742::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: -1px;
+	left: -1px;
+	bottom: -1px;
+	right: -1px;
+	box-shadow: inset 3px 3px 4px rgba(255,255,255,0.75), inset -3px -3px 4px rgba(0,0,0,0.75);
+}
+
+#u742-bw
+{
+	z-index: 32;
+	margin-top: -5px;
+	margin-bottom: -5px;
+	height: 10px;
 }
 
 #ppbuttonu140
@@ -248,12 +280,9 @@
 #buttonu140
 {
 	z-index: 4;
-	width: 187px;
+	width: 154px;
 	height: 48px;
 	border-color: #787878;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
@@ -264,16 +293,11 @@
 
 #pbuttonu140:hover #buttonu140
 {
-	width: 183px;
+	width: 150px;
 	height: 44px;
 	border-width: 4px;
 	border-style: solid;
 	border-color: #1248FF;
-	-pie-background: none;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
-	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 0px;
@@ -281,53 +305,52 @@
 	margin-left: 0px;
 	min-height: 0px;
 	background: #545454 url("../images/images.jpg") no-repeat right bottom;
-	background-color: rgba(84, 84, 84, 1);
-	background-size: auto;
 }
 
 #u141
 {
 	z-index: 6;
+	min-height: 23px;
+	min-width: 119px;
+	vertical-align: top;
 	height: 23px;
 	width: 119px;
-	vertical-align: top;
 	background: url("../images/u141.png") no-repeat 0px 0px;
 }
 
 #pbuttonu140:hover #u141
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 32px;
+	left: 9px;
 	background: url("../images/u141-r.png") no-repeat 0px 0px;
 }
 
 #pbuttonu140 #u141
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
-	left: 34px;
+	left: 11px;
 }
 
 #pbuttonu142
 {
 	width: 0.01px;
-	margin: -2px -10000px -2px 208px;
+	margin: -2px -10000px -2px 207px;
 }
 
 #buttonu142
 {
 	z-index: 10;
-	width: 187px;
+	width: 149px;
 	height: 49px;
 	border-color: #787878;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
@@ -338,16 +361,11 @@
 
 #pbuttonu142:hover #buttonu142
 {
-	width: 183px;
+	width: 145px;
 	height: 45px;
 	border-width: 4px;
 	border-style: solid;
 	border-color: #1248FF;
-	-pie-background: none;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
-	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 0px;
@@ -355,55 +373,44 @@
 	margin-left: 0px;
 	min-height: 0px;
 	background: #545454 url("../images/images.jpg") no-repeat right bottom;
-	background-color: rgba(84, 84, 84, 1);
-	background-size: auto;
 }
 
 #u143
 {
 	z-index: 12;
+	min-height: 23px;
+	min-width: 119px;
+	vertical-align: top;
 	height: 23px;
 	width: 119px;
-	vertical-align: top;
 	background: url("../images/u143.png") no-repeat 0px 0px;
 }
 
 #pbuttonu142:hover #u143
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 10px;
-	left: 28px;
+	margin-top: 11px;
+	left: 18px;
 	background: url("../images/u143-r.png") no-repeat 0px 0px;
 }
 
 #pbuttonu142 #u143
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
-	margin-right: -10000px;
-	margin-top: 12px;
-	left: 30px;
-}
-
-#u270
-{
-	z-index: 32;
-	width: 398px;
-	height: 8px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	margin-top: 4px;
 	position: relative;
-	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 20px;
 }
 
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 360px;
 }
 
 #page .verticalspacer

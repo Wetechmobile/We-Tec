@@ -1,32 +1,32 @@
 .version.holiday /* version checker */
 {
-	color: #0000E7;
-	background-color: #8D12AF;
+	color: #0000FE;
+	background-color: #14BCA9;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 .html
@@ -37,7 +37,7 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
+	width: 360px;
 	min-height: 570px;
 	background-image: none;
 	border-style: none;
@@ -49,6 +49,7 @@
 {
 	margin-top: -41px;
 	padding-bottom: 7px;
+	width: 0.01px;
 }
 
 #u362
@@ -80,9 +81,6 @@
 	z-index: 5;
 	width: 201px;
 	background-color: transparent;
-	-moz-border-radius: 16px;
-	-webkit-border-radius: 16px;
-	-khtml-border-radius: 16px;
 	border-radius: 16px;
 	margin-left: 89px;
 	margin-top: 16px;
@@ -148,9 +146,6 @@
 	width: 167px;
 	height: 48px;
 	border-color: #787878;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
@@ -166,11 +161,6 @@
 	border-width: 4px;
 	border-style: solid;
 	border-color: #1248FF;
-	-pie-background: none;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
-	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 0px;
@@ -178,23 +168,24 @@
 	margin-left: 0px;
 	min-height: 0px;
 	background: #545454 url("../images/images.jpg") no-repeat right bottom;
-	background-color: rgba(84, 84, 84, 1);
-	background-size: auto;
 }
 
 #u405
 {
 	z-index: 10;
+	min-height: 23px;
+	min-width: 119px;
+	vertical-align: top;
 	height: 23px;
 	width: 119px;
-	vertical-align: top;
 	background: url("../images/u405.png") no-repeat 0px 0px;
 }
 
 #pbuttonu404:hover #u405
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 10px;
 	left: 32px;
@@ -203,8 +194,9 @@
 
 #pbuttonu404 #u405
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
 	left: 34px;
@@ -222,9 +214,6 @@
 	width: 168px;
 	height: 49px;
 	border-color: #787878;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
@@ -240,11 +229,6 @@
 	border-width: 4px;
 	border-style: solid;
 	border-color: #1248FF;
-	-pie-background: none;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
-	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 0px;
@@ -252,23 +236,24 @@
 	margin-left: 0px;
 	min-height: 0px;
 	background: #545454 url("../images/images.jpg") no-repeat right bottom;
-	background-color: rgba(84, 84, 84, 1);
-	background-size: auto;
 }
 
 #u407
 {
 	z-index: 16;
+	min-height: 23px;
+	min-width: 119px;
+	vertical-align: top;
 	height: 23px;
 	width: 119px;
-	vertical-align: top;
 	background: url("../images/u407.png") no-repeat 0px 0px;
 }
 
 #pbuttonu406:hover #u407
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 10px;
 	left: 28px;
@@ -277,8 +262,9 @@
 
 #pbuttonu406 #u407
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
 	left: 30px;
@@ -287,7 +273,7 @@
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 360px;
 }
 
 #page .verticalspacer

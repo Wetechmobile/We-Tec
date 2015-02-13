@@ -1,32 +1,32 @@
 .version.streetcar /* version checker */
 {
-	color: #0000F8;
-	background-color: #3267AA;
+	color: #0000E2;
+	background-color: #75B3CE;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 360px;
 }
 
 .html
@@ -37,7 +37,7 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
+	width: 360px;
 	min-height: 570px;
 	background-image: none;
 	border-style: none;
@@ -49,6 +49,12 @@
 {
 	margin-top: -41px;
 	padding-bottom: 7px;
+	width: 0.01px;
+}
+
+#pu350
+{
+	width: 0.01px;
 }
 
 #u350
@@ -56,8 +62,9 @@
 	z-index: 2;
 	width: 132px;
 	background-color: transparent;
-	margin-left: 124px;
 	position: relative;
+	margin-right: -10000px;
+	left: 114px;
 }
 
 #u350_img
@@ -65,35 +72,52 @@
 	padding-right: 1px;
 }
 
+#u613
+{
+	z-index: 23;
+	height: 8px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+}
+
+#u613-bw
+{
+	z-index: 23;
+	margin-top: 116px;
+	height: 10px;
+}
+
 #u429-5
 {
-	z-index: 20;
+	z-index: 18;
 	display: block;
 	vertical-align: top;
-	margin-left: 44px;
-	margin-top: 12px;
+	margin-left: 20px;
+	margin-top: 4px;
 	position: relative;
 }
 
 #u373
 {
-	z-index: 5;
+	z-index: 4;
 	width: 205px;
 	background-color: transparent;
-	margin-left: 97px;
-	margin-top: 19px;
+	margin-left: 81px;
+	margin-top: 18px;
 	position: relative;
 }
 
-#u373_img
+#pu614
 {
-	padding-right: 1px;
-	padding-bottom: 1px;
+	width: 0.01px;
+	margin-top: 17px;
 }
 
-#u352
+#u614
 {
-	z-index: 4;
+	z-index: 24;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
@@ -101,73 +125,109 @@
 	background: #1B1464 url("../images/images.jpg") no-repeat right center;
 }
 
-#u352-bw
+#u613::before,#u614::before
 {
-	z-index: 4;
-	margin-top: -363px;
-	margin-bottom: -10px;
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: -1px;
+	left: -1px;
+	bottom: -1px;
+	right: -1px;
+	box-shadow: inset 3px 3px 4px rgba(255,255,255,0.75), inset -3px -3px 4px rgba(0,0,0,0.75);
+}
+
+#u614-bw
+{
+	z-index: 24;
+	margin-top: 21px;
 	height: 10px;
 }
 
-#u426
+#u615
 {
-	z-index: 19;
-	height: 8px;
-	border-width: 1px;
+	z-index: 25;
+	min-height: 35px;
+	border-width: 2px;
 	border-style: solid;
-	border-color: #000000;
-	background: #1B1464 url("../images/images.jpg") no-repeat right center;
+	border-color: #22B573;
+	background-color: #FFFFFF;
+	padding-bottom: 6px;
 }
 
-#u426-bw
+#u620
 {
-	z-index: 19;
-	margin-top: 52px;
-	height: 10px;
+	z-index: 30;
+	width: 145px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 14px;
+}
+
+#u618
+{
+	z-index: 28;
+	width: 56px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 171px;
+}
+
+#u616
+{
+	z-index: 26;
+	width: 105px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 239px;
+}
+
+#u615-bw
+{
+	z-index: 25;
+	min-height: 35px;
+	margin-bottom: -1px;
+	margin-top: -1px;
 }
 
 #ppbuttonu392
 {
 	width: 0.01px;
-	margin-left: 2px;
-	margin-top: 15px;
+	margin-top: 26px;
 }
 
 #pbuttonu392
 {
 	width: 0.01px;
-	margin: -2px -10000px -2px -2px;
+	margin-bottom: -1px;
+	margin-right: -10000px;
 }
 
 #buttonu392
 {
-	z-index: 8;
-	width: 168px;
+	z-index: 7;
+	width: 153px;
 	height: 48px;
 	border-color: #787878;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 2px;
-	margin-left: 2px;
 	background: #CACACA url("../images/images.jpg") no-repeat right bottom;
 }
 
 #pbuttonu392:hover #buttonu392
 {
-	width: 164px;
-	height: 44px;
-	border-width: 4px;
+	width: 152px;
+	height: 47px;
+	border-width: 1px;
 	border-style: solid;
 	border-color: #1248FF;
-	-pie-background: none;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
-	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 0px;
@@ -175,73 +235,67 @@
 	margin-left: 0px;
 	min-height: 0px;
 	background: #545454 url("../images/images.jpg") no-repeat right bottom;
-	background-color: rgba(84, 84, 84, 1);
-	background-size: auto;
 }
 
 #u393
 {
-	z-index: 10;
+	z-index: 9;
+	min-height: 23px;
+	min-width: 119px;
+	vertical-align: top;
 	height: 23px;
 	width: 119px;
-	vertical-align: top;
 	background: url("../images/u393.png") no-repeat 0px 0px;
 }
 
 #pbuttonu392:hover #u393
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 10px;
-	left: 32px;
+	margin-top: 11px;
+	left: 16px;
 	background: url("../images/u393-r.png") no-repeat 0px 0px;
 }
 
 #pbuttonu392 #u393
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
-	left: 34px;
+	left: 17px;
 }
 
 #pbuttonu394
 {
 	width: 0.01px;
-	margin: -2px -10000px -2px 208px;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+	margin-left: 212px;
 }
 
 #buttonu394
 {
-	z-index: 14;
-	width: 168px;
+	z-index: 13;
+	width: 149px;
 	height: 49px;
 	border-color: #787878;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 2px;
-	margin-left: 2px;
 	background: #CACACA url("../images/images.jpg") no-repeat right bottom;
 }
 
 #pbuttonu394:hover #buttonu394
 {
-	width: 164px;
-	height: 45px;
-	border-width: 4px;
+	width: 148px;
+	height: 48px;
+	border-width: 1px;
 	border-style: solid;
 	border-color: #1248FF;
-	-pie-background: none;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
-	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 0px;
@@ -249,42 +303,44 @@
 	margin-left: 0px;
 	min-height: 0px;
 	background: #545454 url("../images/images.jpg") no-repeat right bottom;
-	background-color: rgba(84, 84, 84, 1);
-	background-size: auto;
 }
 
 #u395
 {
-	z-index: 16;
+	z-index: 15;
+	min-height: 23px;
+	min-width: 119px;
+	vertical-align: top;
 	height: 23px;
 	width: 119px;
-	vertical-align: top;
 	background: url("../images/u395.png") no-repeat 0px 0px;
 }
 
 #pbuttonu394:hover #u395
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 10px;
-	left: 28px;
+	margin-top: 12px;
+	left: 14px;
 	background: url("../images/u395-r.png") no-repeat 0px 0px;
 }
 
 #pbuttonu394 #u395
 {
-	position: relative;
+	height: 23px;
 	width: 119px;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 12px;
-	left: 30px;
+	margin-top: 13px;
+	left: 15px;
 }
 
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 360px;
 }
 
 #page .verticalspacer
