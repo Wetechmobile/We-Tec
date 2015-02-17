@@ -1,7 +1,7 @@
 .version.holiday_pics /* version checker */
 {
-	color: #0000E3;
-	background-color: #B0993D;
+	color: #0000FF;
+	background-color: #116059;
 }
 
 @-ms-viewport
@@ -90,21 +90,14 @@
 	height: 10px;
 }
 
-#u2008
+#u2248
 {
 	z-index: 81;
-	width: 93px;
+	width: 122px;
 	background-color: transparent;
-	border-radius: 16px;
-	margin-left: 146px;
-	top: -1px;
-	margin-bottom: -1px;
 	position: relative;
-}
-
-#u2008 .clip_frame
-{
-	-webkit-border-radius: 16px 16px 16px 16px;
+	margin-right: -10000px;
+	margin-top: 121px;
 }
 
 #slideshowu1501
@@ -113,7 +106,7 @@
 	width: 0.01px;
 	height: 218px;
 	margin-left: 46px;
-	margin-top: 7px;
+	margin-top: 6px;
 	position: relative;
 }
 
@@ -495,8 +488,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 328px;
 	left: 253px;

@@ -1,7 +1,7 @@
 .version.fan_pics /* version checker */
 {
-	color: #0000F8;
-	background-color: #F6A368;
+	color: #000014;
+	background-color: #FF13D6;
 }
 
 @-ms-viewport
@@ -90,13 +90,14 @@
 	height: 10px;
 }
 
-#u1927
+#u2167
 {
 	z-index: 73;
-	width: 83px;
+	width: 128px;
 	background-color: transparent;
-	margin-left: 140px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 130px;
 }
 
 #slideshowu1257
@@ -105,7 +106,7 @@
 	width: 0.01px;
 	height: 180px;
 	margin-left: 46px;
-	margin-top: 33px;
+	margin-top: 6px;
 	position: relative;
 }
 
@@ -436,8 +437,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 297px;
 	left: 253px;

@@ -1,7 +1,7 @@
 .version.golf_pics /* version checker */
 {
-	color: #0000FF;
-	background-color: #F18188;
+	color: #0000E3;
+	background-color: #D9CE3D;
 }
 
 @-ms-viewport
@@ -90,15 +90,25 @@
 	height: 10px;
 }
 
-#u1826
+#u2211
 {
 	z-index: 55;
-	width: 86px;
+	width: 148px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 136px;
-	left: 137px;
+	margin-top: 112px;
+}
+
+#u2431-4
+{
+	z-index: 57;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 167px;
+	left: 124px;
 }
 
 #slideshowu1013
@@ -107,7 +117,6 @@
 	width: 0.01px;
 	height: 149px;
 	margin-left: 46px;
-	margin-top: 21px;
 	position: relative;
 }
 
@@ -306,7 +315,7 @@
 {
 	position: absolute;
 	width: 10px;
-	min-height: 10px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
@@ -332,14 +341,14 @@
 {
 	position: absolute;
 	width: 10px;
-	min-height: 10px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 328px;
 	left: 253px;
@@ -373,7 +382,7 @@
 #u1079-bw
 {
 	z-index: 34;
-	margin-top: 39px;
+	margin-top: 24px;
 	height: 10px;
 }
 

@@ -1,7 +1,7 @@
 .version.buyme_picks /* version checker */
 {
-	color: #000010;
-	background-color: #D16483;
+	color: #0000ED;
+	background-color: #5D1B83;
 }
 
 @-ms-viewport
@@ -56,6 +56,7 @@
 #pu1376
 {
 	width: 0.01px;
+	margin-left: -6px;
 }
 
 #u1376
@@ -65,7 +66,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 114px;
+	left: 120px;
 }
 
 #u1376_img
@@ -90,14 +91,14 @@
 	height: 10px;
 }
 
-#u1956
+#u2221
 {
 	z-index: 57;
-	width: 87px;
+	width: 147px;
 	background-color: transparent;
-	margin-left: 142px;
-	margin-top: 16px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 130px;
 }
 
 #slideshowu1379
@@ -106,7 +107,7 @@
 	width: 0.01px;
 	height: 166px;
 	margin-left: 46px;
-	margin-top: 32px;
+	margin-top: 4px;
 	position: relative;
 }
 
@@ -329,8 +330,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 298px;
 	left: 253px;

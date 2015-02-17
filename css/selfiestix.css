@@ -1,7 +1,7 @@
 .version.selfiestix /* version checker */
 {
-	color: #00001E;
-	background-color: #55EC0F;
+	color: #0000FD;
+	background-color: #1D985E;
 }
 
 @-ms-viewport
@@ -68,20 +68,20 @@
 
 #u412-5
 {
-	z-index: 19;
+	z-index: 17;
 	display: block;
 	vertical-align: top;
 	margin-left: 29px;
 	position: relative;
 }
 
-#u385
+#u2366
 {
-	z-index: 5;
-	width: 211px;
+	z-index: 23;
+	width: 240px;
 	background-color: transparent;
-	margin-left: 84px;
-	margin-top: 36px;
+	margin-left: 80px;
+	margin-top: 23px;
 	position: relative;
 }
 
@@ -98,14 +98,14 @@
 #u368-bw
 {
 	z-index: 4;
-	margin-top: -365px;
+	margin-top: -379px;
 	margin-bottom: -10px;
 	height: 10px;
 }
 
 #u415
 {
-	z-index: 24;
+	z-index: 22;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
@@ -115,8 +115,8 @@
 
 #u415-bw
 {
-	z-index: 24;
-	margin-top: 50px;
+	z-index: 22;
+	margin-top: 36px;
 	height: 10px;
 }
 
@@ -135,7 +135,7 @@
 
 #buttonu408
 {
-	z-index: 8;
+	z-index: 6;
 	width: 166px;
 	height: 48px;
 	border-color: #787878;
@@ -165,7 +165,7 @@
 
 #u409
 {
-	z-index: 10;
+	z-index: 8;
 	min-height: 23px;
 	min-width: 113px;
 	vertical-align: top;
@@ -203,7 +203,7 @@
 
 #buttonu410
 {
-	z-index: 14;
+	z-index: 12;
 	width: 168px;
 	height: 49px;
 	border-color: #787878;
@@ -233,7 +233,7 @@
 
 #u411
 {
-	z-index: 16;
+	z-index: 14;
 	min-height: 23px;
 	min-width: 119px;
 	vertical-align: top;

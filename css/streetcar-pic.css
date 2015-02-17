@@ -1,7 +1,7 @@
 .version.streetcar_pic /* version checker */
 {
-	color: #00001B;
-	background-color: #780BE5;
+	color: #00001F;
+	background-color: #93065E;
 }
 
 @-ms-viewport
@@ -383,8 +383,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 299px;
 	left: 252px;
@@ -405,15 +405,27 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#u1851
+#u2200
 {
 	z-index: 61;
-	width: 88px;
+	width: 129px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 138px;
-	left: 135px;
+	margin-top: 129px;
+	left: 12px;
+}
+
+#u2200_clip
+{
+	overflow: hidden;
+	width: 129px;
+	height: 109px;
+}
+
+#u2200_img
+{
+	margin-bottom: -19px;
 }
 
 #u1201

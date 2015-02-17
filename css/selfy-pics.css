@@ -1,7 +1,7 @@
 .version.selfy_pics /* version checker */
 {
-	color: #00001D;
-	background-color: #253EB8;
+	color: #000010;
+	background-color: #1DB58A;
 }
 
 @-ms-viewport
@@ -56,6 +56,7 @@
 #pu1620
 {
 	width: 0.01px;
+	margin-left: -5px;
 }
 
 #u1620
@@ -65,7 +66,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 124px;
+	left: 129px;
 }
 
 #u1620_img
@@ -95,9 +96,10 @@
 	z-index: 5;
 	width: 0.01px;
 	height: 218px;
-	margin-left: 38px;
-	margin-top: 49px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 229px;
+	left: 44px;
 }
 
 #u1666
@@ -446,7 +448,7 @@
 {
 	position: absolute;
 	width: 10px;
-	min-height: 10px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
@@ -472,14 +474,14 @@
 {
 	position: absolute;
 	width: 10px;
-	min-height: 10px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 328px;
 	left: 253px;
@@ -500,6 +502,16 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
+#u2373
+{
+	z-index: 81;
+	width: 147px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 108px;
+}
+
 #u1689
 {
 	z-index: 60;
@@ -513,7 +525,7 @@
 #u1689-bw
 {
 	z-index: 60;
-	margin-top: 17px;
+	margin-top: 14px;
 	height: 10px;
 }
 
@@ -626,7 +638,7 @@
 {
 	width: 0.01px;
 	margin-left: 19px;
-	margin-top: 65px;
+	margin-top: 35px;
 }
 
 #pbuttonu1698

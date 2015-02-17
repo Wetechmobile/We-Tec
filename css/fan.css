@@ -1,7 +1,7 @@
 .version.fan /* version checker */
 {
-	color: #000013;
-	background-color: #81C331;
+	color: #0000F1;
+	background-color: #45EDBB;
 }
 
 @-ms-viewport
@@ -74,7 +74,7 @@
 
 #u554
 {
-	z-index: 23;
+	z-index: 21;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
@@ -84,14 +84,14 @@
 
 #u554-bw
 {
-	z-index: 23;
+	z-index: 21;
 	margin-top: 118px;
 	height: 10px;
 }
 
 #u423-5
 {
-	z-index: 18;
+	z-index: 16;
 	display: block;
 	vertical-align: top;
 	margin-left: 33px;
@@ -99,24 +99,15 @@
 	position: relative;
 }
 
-#u376
+#pu555
 {
-	z-index: 4;
-	width: 169px;
-	background-color: transparent;
-	border-radius: 18px;
-	margin-left: 105px;
-	position: relative;
-}
-
-#u376 .clip_frame
-{
-	-webkit-border-radius: 18px 18px 18px 18px;
+	width: 0.01px;
+	margin-top: 9px;
 }
 
 #u555
 {
-	z-index: 24;
+	z-index: 22;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
@@ -138,14 +129,24 @@
 
 #u555-bw
 {
-	z-index: 24;
-	margin-top: 9px;
+	z-index: 22;
+	margin-top: 169px;
 	height: 10px;
+}
+
+#u2155
+{
+	z-index: 30;
+	width: 187px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 87px;
 }
 
 #u673
 {
-	z-index: 25;
+	z-index: 23;
 	min-height: 35px;
 	border-width: 2px;
 	border-style: solid;
@@ -156,7 +157,7 @@
 
 #u678
 {
-	z-index: 30;
+	z-index: 28;
 	width: 145px;
 	background-color: transparent;
 	position: relative;
@@ -176,7 +177,7 @@
 
 #u676
 {
-	z-index: 28;
+	z-index: 26;
 	width: 56px;
 	background-color: transparent;
 	position: relative;
@@ -196,7 +197,7 @@
 
 #u674
 {
-	z-index: 26;
+	z-index: 24;
 	width: 105px;
 	background-color: transparent;
 	position: relative;
@@ -216,9 +217,9 @@
 
 #u673-bw
 {
-	z-index: 25;
+	z-index: 23;
 	min-height: 35px;
-	margin-top: 7px;
+	margin-top: 1px;
 }
 
 #ppbuttonu396
@@ -237,7 +238,7 @@
 
 #buttonu396
 {
-	z-index: 7;
+	z-index: 5;
 	width: 148px;
 	height: 48px;
 	border-color: #787878;
@@ -267,7 +268,7 @@
 
 #u397
 {
-	z-index: 9;
+	z-index: 7;
 	min-height: 23px;
 	min-width: 114px;
 	vertical-align: top;
@@ -307,7 +308,7 @@
 
 #buttonu398
 {
-	z-index: 13;
+	z-index: 11;
 	width: 149px;
 	height: 49px;
 	border-color: #787878;
@@ -337,7 +338,7 @@
 
 #u399
 {
-	z-index: 15;
+	z-index: 13;
 	min-height: 23px;
 	min-width: 119px;
 	vertical-align: top;

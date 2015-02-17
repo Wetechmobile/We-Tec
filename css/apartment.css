@@ -1,7 +1,7 @@
 .version.apartment /* version checker */
 {
-	color: #0000FD;
-	background-color: #ACEF00;
+	color: #0000F9;
+	background-color: #028751;
 }
 
 @-ms-viewport
@@ -59,7 +59,7 @@
 
 #u298
 {
-	z-index: 9;
+	z-index: 7;
 	width: 132px;
 	background-color: transparent;
 	position: relative;
@@ -74,7 +74,7 @@
 
 #u552
 {
-	z-index: 11;
+	z-index: 9;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
@@ -84,14 +84,14 @@
 
 #u552-bw
 {
-	z-index: 11;
+	z-index: 9;
 	margin-top: 116px;
 	height: 10px;
 }
 
 #u296-5
 {
-	z-index: 4;
+	z-index: 2;
 	display: block;
 	vertical-align: top;
 	margin-left: 46px;
@@ -99,19 +99,15 @@
 	position: relative;
 }
 
-#u293
+#pu553
 {
-	z-index: 2;
-	width: 199px;
-	background-color: transparent;
-	margin-left: 91px;
-	margin-top: 9px;
-	position: relative;
+	width: 0.01px;
+	margin-top: 15px;
 }
 
 #u553
 {
-	z-index: 12;
+	z-index: 10;
 	height: 8px;
 	border-width: 1px;
 	border-style: solid;
@@ -133,14 +129,24 @@
 
 #u553-bw
 {
-	z-index: 12;
-	margin-top: 2px;
+	z-index: 10;
+	margin-top: 210px;
 	height: 10px;
+}
+
+#u2096
+{
+	z-index: 30;
+	width: 233px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 59px;
 }
 
 #u633
 {
-	z-index: 25;
+	z-index: 23;
 	min-height: 35px;
 	border-width: 2px;
 	border-style: solid;
@@ -151,7 +157,7 @@
 
 #u638
 {
-	z-index: 30;
+	z-index: 28;
 	width: 145px;
 	background-color: transparent;
 	position: relative;
@@ -171,7 +177,7 @@
 
 #u636
 {
-	z-index: 28;
+	z-index: 26;
 	width: 56px;
 	background-color: transparent;
 	position: relative;
@@ -191,7 +197,7 @@
 
 #u634
 {
-	z-index: 26;
+	z-index: 24;
 	width: 105px;
 	background-color: transparent;
 	position: relative;
@@ -211,9 +217,9 @@
 
 #u633-bw
 {
-	z-index: 25;
+	z-index: 23;
 	min-height: 35px;
-	margin-top: 24px;
+	margin-top: 13px;
 }
 
 #ppbuttonu582
@@ -233,7 +239,7 @@
 
 #buttonu582
 {
-	z-index: 14;
+	z-index: 12;
 	width: 148px;
 	height: 48px;
 	border-color: #787878;
@@ -263,7 +269,7 @@
 
 #u583
 {
-	z-index: 16;
+	z-index: 14;
 	min-height: 23px;
 	min-width: 114px;
 	vertical-align: top;
@@ -303,7 +309,7 @@
 
 #buttonu584
 {
-	z-index: 20;
+	z-index: 18;
 	width: 149px;
 	height: 49px;
 	border-color: #787878;
@@ -333,7 +339,7 @@
 
 #u585
 {
-	z-index: 22;
+	z-index: 20;
 	min-height: 23px;
 	min-width: 119px;
 	vertical-align: top;
